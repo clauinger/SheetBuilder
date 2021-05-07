@@ -1,2 +1,2 @@
 # SheetBuilder
-SheetBuilder is a tool for on-screen GUI development of web pages
+SheetBuilder is a GUI tool for Architectural/Engineering Construction Documents as web pages
